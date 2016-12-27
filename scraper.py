@@ -1,4 +1,4 @@
-#!/usr/bin/python2.7.12
+#!/usr/bin/python
 
 import scraperwiki
 import urllib2
